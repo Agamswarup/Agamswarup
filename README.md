@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Agam Swarup</h1>
 <h3 align="center">A motivated individual pursuing a Bachelor of Technology (B.Tech) degree in Electronics and Communication at LNMIIT, Jaipur, with a keen interest and proficiency in MERN stack development. Dedication to both academic studies and development skills demonstrates ambition to excel in both hardware and software domains. As a MERN stack developer, possesses the ability to create dynamic and efficient web applications using MongoDB, Express.js, React.js, and Node.js. Commitment to learning and advancing skills reflects passion for technology and drive to succeed in the ever-evolving field of web development. Keep up the excellent work!</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966”>
+<img align=“right” alt=“coding” width=“400” src=“![image](https://github.com/Agamswarup/Agamswarup/assets/106919040/fb463273-335f-4ae2-aa14-93cfeb2d953f)
+”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agamswarup&label=Profile%20views&color=0e75b6&style=flat" alt="agamswarup" /> </p>
 
 - 🔭 I’m currently working on [Health Umbrella](https://github.com/Agamswarup/health_umbrella_foundation_frontend)
