@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **21uec012@lnmiit.ac.in**
 
-- Visit Resume [https://docs.google.com/document/d/1-U2EL6bDbolDwlkUofnNIyjXMDx3RT4PN4lrNuo2d3c/edit?usp=sharing](https://docs.google.com/document/d/1-U2EL6bDbolDwlkUofnNIyjXMDx3RT4PN4lrNuo2d3c/edit?usp=sharing)
+- Visit Resume [https://drive.google.com/file/d/1z1uJlQFfEnAnRcj4mEMSY3BRa8J33jHj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
