@@ -27,3 +27,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agamswarup&show_icons=true&locale=en" alt="agamswarup" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agamswarup&" alt="agamswarup" /></p>
+
+
+```javascript
+fddsfsdfdsfg
+const greeting = "Hello, world!";
+console.log(greeting);
+```
