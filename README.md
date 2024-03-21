@@ -30,7 +30,7 @@
 
 
 ```javascript
-fddsfsdfdsfg
+Thank you for visiting my profile...
 const greeting = "Hello, world!";
 console.log(greeting);
 ```
