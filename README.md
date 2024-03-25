@@ -1,5 +1,4 @@
-
-### I'm Agam Swarup
+### Hi! I'm Agam Swarup
 
 <h3 align="center">A motivated individual pursuing a Bachelor of Technology (B.Tech) degree in Electronics and Communication at LNMIIT, Jaipur, with a keen interest and proficiency in MERN stack development. Dedication to both academic studies and development skills demonstrates ambition to excel in both hardware and software domains. As a MERN stack developer, possesses the ability to create dynamic and efficient web applications using MongoDB, Express.js, React.js, and Node.js. Commitment to learning and advancing skills reflects passion for technology and drive to succeed in the ever-evolving field of web development. Keep up the excellent work!</h3>
 
