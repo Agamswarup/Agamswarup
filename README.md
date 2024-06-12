@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agamswarup&label=Profile%20views&color=0e75b6&style=flat" alt="agamswarup" /> </p>
 
-- 🔭 I’m currently working on [Health Umbrella](https://github.com/Agamswarup/health_umbrella_foundation_frontend)
+- 🔭 I’m currently working as ReactJS intern at [Celebal Technologies]
+  
+- 🔭 I’m currently working on a project [Health Umbrella](https://github.com/Agamswarup/health_umbrella_foundation_frontend)
 
 - I have created an Edtech Platform using Mernstack that is [Studynotion](https://study-notion-edtech-frontend-ten.vercel.app)
 
