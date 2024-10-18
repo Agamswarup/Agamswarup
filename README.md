@@ -7,10 +7,8 @@
 
 - 🔭 Summer Interned 2024 as ReactJS Developer at [Celebal Technologies]
 - 🔭 Summer Interned 2023 as Frontend Developer at [Health Umbrella Foundation]
-  
-- 🔭 I’m currently working on a project [Health Umbrella](https://github.com/Agamswarup/health_umbrella_foundation_frontend)
 
-- I have created an Edtech Platform using Mernstack that is [Studynotion](https://study-notion-edtech-frontend-ten.vercel.app)
+- I have created an Edtech Platform using Mernstack that is [PrepPal](https://preppal-omega.vercel.app/)
 
 - 📫 How to reach me **agamsuthar1003@gmail.com**
 
