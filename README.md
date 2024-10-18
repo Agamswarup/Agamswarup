@@ -5,15 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agamswarup&label=Profile%20views&color=0e75b6&style=flat" alt="agamswarup" /> </p>
 
-- 🔭 I’m currently working as ReactJS intern at [Celebal Technologies]
+- 🔭 Summer Interned 2024 as ReactJS Developer at [Celebal Technologies]
+- 🔭 Summer Interned 2023 as Frontend Developer at [Health Umbrella Foundation]
   
 - 🔭 I’m currently working on a project [Health Umbrella](https://github.com/Agamswarup/health_umbrella_foundation_frontend)
 
 - I have created an Edtech Platform using Mernstack that is [Studynotion](https://study-notion-edtech-frontend-ten.vercel.app)
 
-- 📫 How to reach me **21uec012@lnmiit.ac.in**
+- 📫 How to reach me **agamsuthar1003@gmail.com**
 
-- Visit Resume [https://drive.google.com/file/d/1z1uJlQFfEnAnRcj4mEMSY3BRa8J33jHj/view?usp=sharing)
+- Visit Resume (https://drive.google.com/file/d/118mQHUXmrtI_EYSgPyXNyx7wW91NAcLs/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
